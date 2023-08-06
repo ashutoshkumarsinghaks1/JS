@@ -29,3 +29,17 @@ console.log(valueInNumbe5); // 1 because of true
 let score6 = "hitesh";
 let valueInNumber6 = Number(score6);
 console.log(valueInNumber6);
+
+//"33" => 33
+//"33abc" => NaN => not a number
+// true => 1 , false=> 0
+let isloggedIn = 1;
+let booleanIsloggedIn = Boolean(isloggedIn);
+console.log(booleanIsloggedIn);
+// 1=>true; 0 => flase
+// "" => false
+//"hitesh" =>  true
+let someNumber = 33;
+let stringNumber = String(someNumber);
+console.log(stringNumber);
+console.log(typeof stringNumber);
