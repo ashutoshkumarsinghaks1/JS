@@ -1,1 +1,2 @@
- console.log("Ashutosh")
+ console.log("Ashutosh");
+console.log("Singh");
