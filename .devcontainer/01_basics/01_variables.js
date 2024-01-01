@@ -24,3 +24,6 @@ console.table([
   accountCity,
   accountState,
 ]);
+
+let name = "Ashutosh Kumar Singh"
+let mailId = "ashutoshxyz@gmail.com"
